@@ -2,7 +2,7 @@
  * Module dependencies.
  */
 
-var domify = require('domify')
+var domify = require('component-domify')
   , digit = require('./digit');
 
 /**
